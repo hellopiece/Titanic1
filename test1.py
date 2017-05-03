@@ -1,3 +1,3 @@
 # -*-coding=UTF-8 -*-
 
-import
+import numpy as np
